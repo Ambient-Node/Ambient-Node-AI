@@ -1,7 +1,7 @@
 
 ***
 
-# Ambient-Node-AI 결과보고서.
+# Ambient-Node-AI
 
 ## 1. 개요.
 
